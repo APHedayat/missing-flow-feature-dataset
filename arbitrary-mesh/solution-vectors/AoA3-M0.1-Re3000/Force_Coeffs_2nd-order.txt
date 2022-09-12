@@ -1,0 +1,4 @@
+Lift coeff due to pressure: 0.2289250816
+Lift coeff due to viscosity: 0.0096101775
+Drag coeff due to pressure: 0.0325519397
+Drag coeff due to viscosity: 0.2383117249
